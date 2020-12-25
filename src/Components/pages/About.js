@@ -21,13 +21,15 @@ function About() {
           </div>
           <h3>Technical Skills</h3>
           <div className="w-p">
-            Technical skills I have experience with include the following: HTML,
-            CSS, JavaScript (Library: React.js), Python, Java and Microsoft
-            Excel (VBA, Macros, Pivot Tables, Lookups). My work with these
-            skills can be demonstrated through the various projects I have.
-            Recently, I have been interested in JavaScript and am working on
-            developing a better knowledge of the library React.js and the
-            framework Node.js.
+            Technical skills I have experience with include the following:
+            <p style={{ fontStyle: "italic" }}>
+              HTML, CSS, JavaScript (Library: React.js), Python, Java and
+              Microsoft Excel (VBA, Macros, Pivot Tables, Lookups)
+            </p>
+            My work with these skills can be demonstrated through the various
+            projects I have. Recently, I have been interested in JavaScript and
+            am working on developing a better knowledge of the library React.js
+            and the framework Node.js.
           </div>
           <h3>Education</h3>
           <div className="w-p">

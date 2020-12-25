@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "../../App.css";
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -13,7 +14,14 @@ function Home() {
           <div className="intro-2">
             I like solving problems. Even the really hard ones.
           </div>
-          <button className="but">View Projects</button>
+          <button className="but">
+            <Link
+              style={{ textDecoration: "none", color: "white" }}
+              to="/projects"
+            >
+              <div className="button-text">View Projects</div>
+            </Link>
+          </button>
           <div class="socials">
             <a
               href="https://www.linkedin.com/in/yashvi-parmar/"
