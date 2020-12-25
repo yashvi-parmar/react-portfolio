@@ -88,7 +88,9 @@ export default class SimpleSlider extends Component {
                   in VBA, while working with various functions such as command
                   buttons, userforms and modules.
                 </p>
-                <a>View this project here!</a>
+                <a href="https://drive.google.com/drive/folders/1_UZQfbdK51IqVhHvxFeNp7I0OKPfamh_?usp=sharing">
+                  View this project here!
+                </a>
               </div>
             </div>
           </div>
@@ -115,7 +117,9 @@ export default class SimpleSlider extends Component {
                   sets of data that assure the team is consistently on the same
                   page throughout development.
                 </p>
-                <a>View this project here!</a>
+                <a href="https://drive.google.com/drive/folders/1npb3C2VCAhRErzJmVOr1BgBPq2cgrDlP?usp=sharing">
+                  View this project here!
+                </a>
               </div>
             </div>
           </div>
