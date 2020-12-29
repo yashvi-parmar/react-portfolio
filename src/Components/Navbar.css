@@ -1,5 +1,5 @@
 .navbar {
-  background-color: black;
+  background-color: #254e58;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -70,11 +70,8 @@
 }
 
 .nav-links:hover {
-  color: salmon;
+  color: #88bdbc;
   transition: all 0.2s ease-out;
-}
-.nav-links:active {
-  color: salmon;
 }
 
 .fa-bars {
@@ -101,14 +98,14 @@
     width: 100%;
     height: 90vh;
     position: absolute;
-    top: 80px;
+    top: 50px;
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
   }
 
   .nav-menu.active {
-    background: black;
+    background: #254e58;
     left: 0;
     opacity: 1;
     transition: all 0.5s ease;
@@ -124,19 +121,12 @@
   }
 
   .nav-links:hover {
-    background-color: black;
-    color: salmon;
+    color: #88bdbc;
     border-radius: 0;
   }
   .nav-links:active {
-    color: salmon;
+    color: #88bdbc;
   }
-
-  /*.navbar-logo {
-      position: absolute;
-      top: 0;
-      left: 0;
-      transform: translate(25%, 50%);*/
 
   .menu-icon {
     display: block;

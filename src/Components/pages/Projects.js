@@ -17,20 +17,20 @@ export default class SimpleSlider extends Component {
     };
     return (
       <div>
-        <h2> Single Item</h2>
+      
+     
         <Slider {...settings}>
+       
           <div>
-            <h3>PORTFOLIO WEBSITE</h3>
+         <h3>PORTFOLIO WEBSITE</h3>
             <div className="project-container">
-              <img className="project-i" src="port.jpg.png" />
+              <img className="project-i" src="port.png" />
               <div className="img-des">
                 <h3>TOOLS: React.js</h3>
                 <p>
                   This portfolio website was created using Create React App.
                   Create React App creates a front-end pipeline that can be used
-                  with any backend. I was interested in working in this
-                  environment as it is a comfortable starting point for learning
-                  React.
+                  with any backend. 
                 </p>
                 <p>
                   Through this project I developed a better understanding of
@@ -61,7 +61,7 @@ export default class SimpleSlider extends Component {
                 <p>
                   After completing a "LinkedIn Learning" course in JavaScript
                   essentials, I decided to venture out and develop an
-                  application that would be useful for me as well. I further
+                  application that would be useful in my daily life aswell. I further
                   developed my knowledge of HTML and CSS, as well as learning
                   JavaScript.
                 </p>
@@ -84,7 +84,7 @@ export default class SimpleSlider extends Component {
                 </p>
                 <p>
                   VBA (Visual Basic for Applications) is Microsoft's programming
-                  language for Excel. This project helped solidfy my foundations
+                  language for Excel. This project helped solidify my foundations
                   in VBA, while working with various functions such as command
                   buttons, userforms and modules.
                 </p>
@@ -102,19 +102,16 @@ export default class SimpleSlider extends Component {
                 <h3>TOOLS: Excel (VBA, Pivot Tables, Lookups)</h3>
                 <p>
                   This decision support tool was created for a client and their
-                  team to combat the challenges with working remotely. This was
-                  a term team project for one course during my first term of
-                  university. We went through a full design cycle, and dove into
-                  project management as we were expected to produce several
-                  technical documents (e.g. functional requirements, scoping,
-                  design specifications, etc.)
+                  team to combat the recent challenges while working remotely. We
+                   went through a full design cycle, and I also got the opportunity 
+                   to learn more about project management through this project.
                 </p>
                 <p>
                   My role on the team was to create a visual interface that
                   would allow our client's team to visually see and update
                   project progress. I used VBA and pivot tables to create an
-                  interactive dashboard that would compare various different
-                  sets of data that assure the team is consistently on the same
+                  interactive dashboard that displays progress using various sets of data.
+                  This section of our tool assured the team was consistently on the same
                   page throughout development.
                 </p>
                 <a href="https://drive.google.com/drive/folders/1npb3C2VCAhRErzJmVOr1BgBPq2cgrDlP?usp=sharing">
